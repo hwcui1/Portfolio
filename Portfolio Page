@@ -2,7 +2,34 @@
 Girls Who Code Portfolio Page
 <!DOCTYPE html>
 <html>
-  <head>
-  <title>Hanwen's Portfolio</title>
-  </head>
-    <body>
+<head>
+<title>Hanwen's Portfolio</title>
+	<style>
+		body {background-color: #FFDADE;}
+		h1   {color: #970A1B}
+		p    {color: #000000}
+        
+	</style>
+</head>
+<body>
+	<h1>Hanwen's Portfolio</h1>
+	<h2>About Me</h2>
+		<p>Hi everyone! I joined Girls Who Code the summer of 2017 at AT&T in Austin, TX. It's been an amazing experience so far. It's very enjoyable. I hope more girls can have this experience in the future. </p>
+        <p>Next, I would like to tell you ALL about me !</p>
+        <ul>
+  		<li>Music: J-pop, Piano, Guitar, Melo, Orchestra, etc. </li>
+  		<li>Experience:
+    		<ul>
+      			<li>Web Design</li>
+    		</ul>
+ 			</li>
+  		<li>School/Year:Plano Senior HS - going to 12th</li>
+      	<li>Food: Jason's Deli (hahah)</li>
+        <li>Other: I'm Christian, I like swimming, dancing, anime, japan, food, guitar, china, mochi icecream, having fun</li>
+		</ul>
+	<h2>Activities</h2>
+    	<h4>HTML/CSS</h4>
+    <h2>Dashboard</h2>
+</body>
+</html>
+
